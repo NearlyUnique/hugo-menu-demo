@@ -1,0 +1,8 @@
+languageCode = "en-us"
+title = "My New Hugo Site"
+baseurl = "http://example.org/"
+
+[[menu.main]]
+  identifier="unique1"
+  name="Unique 1"
+  weight=-170
